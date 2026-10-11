@@ -1,0 +1,35 @@
+.kata-section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.kata-text {
+    flex: 1;
+}
+
+.kata-section img {
+    width: 45%;
+    height: auto;
+}
+.history-text h2 {
+    margin-bottom: 20px;
+}
+
+.history-text p {
+    line-height: 1.7;
+}
+.kumite-section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.kumite-section div {
+    flex: 1;
+}
+
+.kumite-section img {
+    width: 40%;
+    height: auto;
+}
